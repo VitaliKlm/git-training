@@ -1,3 +1,3 @@
 # Git and Github Training
 
-Git Branching Training
+ https://vitaliklm.github.io/git-training/
